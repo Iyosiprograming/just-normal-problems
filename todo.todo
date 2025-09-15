@@ -1,3 +1,16 @@
+Exam 1 – Delivery Management System
+A logistics company manages deliveries for multiple clients.
+Each delivery has: material, weight, distance, urgent flag.
+Rules:
+Distance charges: 0–50km=5, 51–200km=8, 201+km=10
+Material rates: Food 10, Metal 20, Cosmetics 15, Electronics 25, Medicine 30
+Extra fees: weight>100kg → 10% discount, distance>300km → 15% fuel surcharge, Cosmetics/Medicine & weight>50kg → 200 fragile fee, urgent → +25%
+5 deliveries per client → 5% loyalty discount
+Tasks:
+Input number of clients and deliveries per client
+Calculate total cost per delivery and client
+Print detailed invoices and grand total
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Exam 2 – Hospital Patient Queue System
 A hospital manages emergency patients in a queue.
 •	Each patient has: name, age, severity (1–10).
