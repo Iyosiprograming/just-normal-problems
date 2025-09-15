@@ -1,0 +1,11 @@
+Exam 2 – Hospital Patient Queue System
+A hospital manages emergency patients in a queue.
+•	Each patient has: name, age, severity (1–10).
+•	Rules:
+o	Higher severity → higher priority.
+o	If severity is equal, older patients first.
+o	Patients should be treated in correct order.
+•	Tasks:
+1.	Input list of patients.
+2.	Sort queue by priority rules.
+3.	Print treatment order.
