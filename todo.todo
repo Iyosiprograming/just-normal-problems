@@ -36,3 +36,9 @@ o	If copies = 0 → book cannot be borrowed.
 2.	Track which books are borrowed/returned.
 3.	Print status of all members + fines + available books.
 
+//////////////////////////////////////////////////////////////////////////////
+. Classroom Attendance Tracker
+•	Input number of students.
+•	For each student: name and present/absent (Y/N).
+•	Count and print total present and absent students.
+
