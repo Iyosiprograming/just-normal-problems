@@ -37,8 +37,19 @@ o	If copies = 0 → book cannot be borrowed.
 3.	Print status of all members + fines + available books.
 
 //////////////////////////////////////////////////////////////////////////////
+Exam 4
 . Classroom Attendance Tracker
 •	Input number of students.
 •	For each student: name and present/absent (Y/N).
 •	Count and print total present and absent students.
+
+/////////////////////////////////////////////////////////////////////////////
+Exam 5
+Simple Library System (easy one)
+•	Input number of books.
+•	For each book: title, author, year.
+•	Store books in a list of dictionaries.
+•	Allow user to search by title and print book info.
+
+
 
