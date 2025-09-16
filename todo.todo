@@ -22,3 +22,17 @@ o	Patients should be treated in correct order.
 1.	Input list of patients.
 2.	Sort queue by priority rules.
 3.	Print treatment order.
+
+//////////////////////////////////////////////////////////////////////////////
+Exam 3 – Library Management System
+A library manages books and borrowings.
+•	Each book has: title, author, copies available.
+•	Rules:
+o	A member can borrow max 3 books at a time.
+o	If return is late → fine = 2 units per day.
+o	If copies = 0 → book cannot be borrowed.
+•	Tasks:
+1.	Input members + borrowing requests.
+2.	Track which books are borrowed/returned.
+3.	Print status of all members + fines + available books.
+
