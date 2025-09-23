@@ -1,6 +1,6 @@
-# Just Normal Problems
+# Exam Problems
 
-Welcome to **Just Normal Problems**!  
+Welcome to **Exams Problems**!  
 
 This repository contains a collection of complex exam-style questions that I tried my best to build **without AI**. Later, I used AI to refine them and make the best possible outcome. The main questions can be found in the [`todo.todo`](./todo.todo) file.  
 
